@@ -1,0 +1,21 @@
+.html-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+    border-radius: 20px;
+    border-color: black;
+    max-width: 190px;
+    margin: 10%;
+}
+
+.center-numbers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
